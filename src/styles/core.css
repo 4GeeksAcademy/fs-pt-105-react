@@ -1,0 +1,24 @@
+.first-part{
+    background-color: gainsboro;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 5px;
+    height: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.title{
+    font-size: 70px;
+}
+.btn{
+    height: 40px;
+    width: 160px;
+}
+.card-style{
+    margin: 6px;
+}
+.card-group-style{
+    text-align: center;
+}
